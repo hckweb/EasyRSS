@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MsgLogging">Giriş yapılıyor…</string>
+    <string name="MsgLoginSucceeded">Giriş yapıldı!</string>
+    <string name="MsgLoginFailed">Giriş başarısız, lütfen kullanıcı adı ve şifrenizi kontrol edin.</string>
+    <string name="MsgSyncOnNetwork">erhangi bir ağ bağlantısında otomatik eşitleme.</string>
+    <string name="MsgSyncOnWifi">Wi-Fi ağ bağlantısında otomatik eşitleme.</string>
+    <string name="MsgSyncDisabled">Otomatik eşitleme devre dışı.</string>
+    <string name="MsgStarred">Yıldızlı.</string>
+    <string name="MsgUnstarred">Yıldız silindi.</string>
+    <string name="MsgNoteShared">Not ile paylaşıldı.</string>
+    <string name="MsgLoadingMoreItems">Daha fazla öge yükleme başlatıldı, lütfen bekleyin…</string>
+    <string name="MsgAuthenticationSucceeded">Doğrulama başarılı, başarılı şekilde giriş yapıldı!</string>
+    <string name="MsgAuthenticationFailed">Doğrulama başarısız.</string>
+    <string name="MsgCannotLaunchMarket">Üzgünüm, Android Market cihazınızda yer almıyor.</string>
+    <string name="MsgFailedToLoadContent">Üzgünüm, bu ögenin içeriği yüklenemedi.</string>
+    <string name="MsgTickerTextNewItems">Ögeler güncellendi</string>
+    <string name="MsgTitleNewItems1">Items updated, with</string>
+    <string name="MsgTitleNewItems2">unread items.</string>
+    <string name="MsgClickToView">Tümünü görmek için tıklayın…</string>
+    <string name="MsgCopiedToClipboard">Panoya kopyalandı.</string>
+    <string name="MsgSavingImageTo">Görsel şuraya kaydediliyor</string>
+
+</resources>
